@@ -1,14 +1,10 @@
 
 /* Your CSS Code here. */
-.questions{
+.same{
 	background-color:#f8fffe;
 	height:50px;
 	margin-top:20px;
 	padding:15px;
 	max-width:600px;
 	border-left:2px solid green;
-}
-.same:hover{
-	background-color:black;
-	color:white;
 }
