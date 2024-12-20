@@ -8,3 +8,7 @@
 	max-width:600px;
 	border-left:2px solid green;
 }
+.same:hover{
+	background-color:black;
+	color:white;
+}
